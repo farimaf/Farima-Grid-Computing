@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jpa-eclipselink">
+    <CLASSES>
+      <root url="file://D:/Java-109-SE/Samples/lib/jpa-eclipselink" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/Java-109-SE/Samples/lib/jpa-eclipselink" recursive="false" />
+  </library>
+</component>
